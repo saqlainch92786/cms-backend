@@ -1,2 +1,3 @@
-# cms-backend
-cms-backend
+# Strapi application
+
+A quick description of your strapi application
